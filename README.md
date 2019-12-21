@@ -3,7 +3,8 @@
 
 智能化生成对于整个班不同学生的评语，有积极的，有消极的，可以自己在程序中添加词库。
 
-可以调节正面和负面评价的数量\n
+可以调节正面和负面评价的数量  
+
 ![如图](https://github.com/leesymbol/PaintingTeacherReviewOnStudents/blob/master/QQ20191221-181613%402x.png)
 使用：  
 
