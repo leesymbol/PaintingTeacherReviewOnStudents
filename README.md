@@ -16,5 +16,5 @@
 3 点生成  
 
 4 选择存储路径，保存到相应位置  
-
+![如图](https://github.com/leesymbol/PaintingTeacherReviewOnStudents/blob/master/QQ20191221-182023%402x.png)
 
